@@ -17,4 +17,5 @@ Tablueau Public link: https://public.tableau.com/views/BreastCancerDiagnosis_171
 ### 2. Clustering
 A clustering analysis was performed to identify what groups may exist in the data. 2 clusters were identified as being likely malignant cases. The cluster column was dropped prior to the next step for classification model development, but may be retained in future iterations.
 
-
+### 3. Classification
+A random forest model was generated to classify malignant and benign tumors. Without any hypertuning, an overall macro and weighed average both came out to 96%. Further classification models will be generated to test accuracy and speed of other algorithms.
