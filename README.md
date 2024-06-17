@@ -4,14 +4,14 @@
 This project was created with the intent to 1. Understand which tumor features most likely indicate malignancy in breast cancer cases, as well as 2. Generate a machine learning model to predict which tumors are likely to be malignant based on features to improve diagnostic time and save resources for hospitals.
 
 ## Data 
-This data was retrieved from the Harvard Dataverse from a 2016 study.
-Source paper: https://doi.org/10.7910/DVN/SP6VXJ
+This data was retrieved from the Harvard Dataverse from a 2016 study. <br/>
+Source paper: https://doi.org/10.7910/DVN/SP6VXJ <br/>
 Data download page: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SP6VXJ
 
 ## Process
 
 ### 1. EDA 
-Exploratory data analysis took place in the form of data visualizations, summary statistics, and correlation analyses. This analysis was also supported by data visualization in Tableau. 
+Exploratory data analysis took place in the form of data visualizations, summary statistics, and correlation analyses. This analysis was also supported by data visualization in Tableau. <br/>
 Tablueau Public link: https://public.tableau.com/views/BreastCancerDiagnosis_17183082111220/NucleiandClumpThicknessindicatingMalignancy?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ### 2. Clustering
