@@ -1,7 +1,7 @@
 # Breast_Cancer_Diagnostics
 
 ## Goal
-This project was created with the intent to 1. Understand which tumor features most likely indicate malignancy in breast cancer cases, as well as 2. Generate a machine learning model to predict which tumors are likely to be malignant based on features to improve diagnostic time and save resources for hospitals.
+This project was created withseveral goals <br/> 1. Understand which tumor features most likely indicate malignancy in breast cancer cases. <br/> 2. Generate a machine learning model to predict which tumors are likely to be malignant based on features to improve diagnostic time and save resources for hospitals.
 
 ## Data 
 This data was retrieved from the Harvard Dataverse from a 2016 study. <br/>
