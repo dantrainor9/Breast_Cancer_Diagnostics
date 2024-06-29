@@ -20,4 +20,4 @@ A clustering analysis was performed to identify what groups may exist in the dat
 ### 3. Classification
 A random forest model was generated to classify malignant and benign tumors. Without any hypertuning, an overall macro and weighed average both came out to 96%. <br/>
 A boosted model using XGBoost demonstrated slightly lower overall accuracy as well as lower recall of the positive (malignant) class. <br/>
-Hypertuning max deth of random forest model resulted in higher recall of the positive target class.
+Hypertuning max depth and class balance of random forest model resulted in higher recall of the positive target class, ultimately resulting in 100% recall of the positive class on test data.
